@@ -12936,8 +12936,8 @@ var DrawLogoImage = function (context)
             context.drawImage(_LogoImage, 50, 30, 85, 67);
         };
         //LogoImage.src = "Images/Logo1.png";
-        //_LogoImage.src = "Images/Logo3.gif";
-        _LogoImage.src = "Images/Logo3.png";
+        //_LogoImage.src = "Images/4000logo90.png";
+        _LogoImage.src = "Images/4000radarlogo90.png";
     }
     else
     {
