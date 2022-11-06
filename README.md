@@ -4,7 +4,7 @@
 
 Now with TWC logos!
 
-Only changes from original are the added logo images and modified twc3.js. 
+Only changes from original are the added logo images, modified index.html and twc3.js. 
 
 More detail on logo swap here;
 
