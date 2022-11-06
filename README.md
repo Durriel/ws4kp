@@ -2,6 +2,14 @@
 
 ## About
 
+Now with TWC logos!
+
+Only changes from original are the added logo images and modified twc3.js. 
+
+More detail on logo swap here;
+
+https://github.com/vbguyny/ws4kp/issues/18#issuecomment-512542620
+
 Welcome to the WeatherStar 4000+ project page!
 
 This project was originally created by Mike Battaglia in the Fall of 2016 because of the desire to create his own weather site which displayed the information in a way that was done by the Weather Channel in the mid to late 90's.  Eventually he watched enough videos and YouTube and read enough articles on how to get and parse data directly from the National Weather Service (NWS) which allowed him to create his own version of the WeatherStar 4000.  After three interations, he now considers the site feature complete and you can view the live version here: https://battaglia.ddns.net/twc
